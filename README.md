@@ -19,7 +19,7 @@ Desenvolver a capacidade de aplicar técnicas de IA em problemas reais, passando
 
 | Nível | Conteúdo                         | Aulas | Atividades | Status         |
 |-------|----------------------------------|--------|------------|----------------|
-| 1     | Introdução                       | 23     | 1          | ✅ Concluído    |
+| 1     | Introdução                       | 23     | 0          | ✅ Concluído    |
 | 2     | Estatística para Devs           | 23     | 3          | ✅ Concluído    |
 | 3     | Análise Exploratória de Dados   | 28     | 3          | 🔄 Em andamento |
 | 4     | Aprendizado de Máquina          | 28     | 4          | ⏳ Não iniciado |
@@ -38,14 +38,14 @@ Desenvolver a capacidade de aplicar técnicas de IA em problemas reais, passando
 
 Cada pasta representa um nível do curso:
 
-├── nivel-1-introducao/ </br>
-├── nivel-2-estatistica/ </br>
-├── nivel-3-analise-exploratoria/ </br>
-├── nivel-4-aprendizado-maquina/ </br>
-├── nivel-5-supervisionados/ </br>
-├── nivel-6-nao-supervisionados/ </br>
-├── nivel-7-ensemble/ </br>
-├── nivel-8-desafio-final/ </br>
+├── 1-introducao/ </br>
+├── 2-estatistica/ </br>
+├── 3-analise-exploratoria/ </br>
+├── 4-aprendizado-maquina/ </br>
+├── 5-supervisionados/ </br>
+├── 6-nao-supervisionados/ </br>
+├── 7-ensemble/ </br>
+├── 8-desafio-final/ </br>
 
 
 > Dentro de cada pasta estão os notebooks, scripts e anotações relevantes para os exercícios e atividades.
