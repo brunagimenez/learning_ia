@@ -38,14 +38,14 @@ Desenvolver a capacidade de aplicar técnicas de IA em problemas reais, passando
 
 Cada pasta representa um nível do curso:
 
-├── nivel-1-introducao/
-├── nivel-2-estatistica/
-├── nivel-3-analise-exploratoria/
-├── nivel-4-aprendizado-maquina/
-├── nivel-5-supervisionados/
-├── nivel-6-nao-supervisionados/
-├── nivel-7-ensemble/
-├── nivel-8-desafio-final/
+├── nivel-1-introducao/ </br>
+├── nivel-2-estatistica/ </br>
+├── nivel-3-analise-exploratoria/ </br>
+├── nivel-4-aprendizado-maquina/ </br>
+├── nivel-5-supervisionados/ </br>
+├── nivel-6-nao-supervisionados/ </br>
+├── nivel-7-ensemble/ </br>
+├── nivel-8-desafio-final/ </br>
 
 
 > Dentro de cada pasta estão os notebooks, scripts e anotações relevantes para os exercícios e atividades.
